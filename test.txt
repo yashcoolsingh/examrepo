@@ -1,0 +1,7 @@
+Devops lifecycle
+Business needs – system of engagement
+		 system record
+Frameworks – Infrastructure automation
+
+-One on gitHub
+-One on Jenkins
